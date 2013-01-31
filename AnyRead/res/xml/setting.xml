@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:entries="@array/set_list_font"
+        android:entryValues="@array/set_list_font_value"
+        android:key="font_list"
+        android:title="글꼴설정" />
+    <ListPreference
+        android:entries="@array/set_list_font_size"
+        android:entryValues="@array/set_list_font_size_value"
+        android:key="font_size"
+        android:title="글자크기" />
+
+</PreferenceScreen>

@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">AnyReader</string>
+    <string name="menu_settings">Settings</string>
+
+    <string-array name="set_list_font">
+        <item>궁서체</item>
+        <item>돋움체</item>
+    </string-array>
+    <string-array name="set_list_font_size">
+        <item>크기 : 10</item>
+        <item>크기 : 12</item>
+        <item>크기 : 14</item>
+    </string-array>
+    <string-array name="set_list_font_value">
+        <item>font_g_value</item>
+        <item>font_d_value</item>
+    </string-array>
+    <string-array name="set_list_font_size_value">
+        <item>font_size_10_value</item>
+        <item>font_size_12_value</item>
+        <item>font_size_14_value</item>
+    </string-array>
+
+</resources>
